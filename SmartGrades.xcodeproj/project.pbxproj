@@ -15,7 +15,6 @@
 		7AAA1B6B22C0C566006E6117 /* AverageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAA1B6A22C0C566006E6117 /* AverageVC.swift */; };
 		7AAA1B6D22C0C579006E6117 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAA1B6C22C0C579006E6117 /* MainVC.swift */; };
 		7AAA1B6F22C0C59D006E6117 /* AllSubjectVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAA1B6E22C0C59D006E6117 /* AllSubjectVC.swift */; };
-		7AAA1B7122C0C7CB006E6117 /* free_horizontal_on_white_by_logaster.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AAA1B7022C0C7CB006E6117 /* free_horizontal_on_white_by_logaster.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		7AAA1B6A22C0C566006E6117 /* AverageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageVC.swift; sourceTree = "<group>"; };
 		7AAA1B6C22C0C579006E6117 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		7AAA1B6E22C0C59D006E6117 /* AllSubjectVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSubjectVC.swift; sourceTree = "<group>"; };
-		7AAA1B7022C0C7CB006E6117 /* free_horizontal_on_white_by_logaster.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = free_horizontal_on_white_by_logaster.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +65,6 @@
 				7AAA1B6522C0C3A0006E6117 /* Model */,
 				7AAA1B5322C0C280006E6117 /* AppDelegate.swift */,
 				7AAA1B5A22C0C282006E6117 /* Assets.xcassets */,
-				7AAA1B7022C0C7CB006E6117 /* free_horizontal_on_white_by_logaster.png */,
 				7AAA1B5C22C0C282006E6117 /* LaunchScreen.storyboard */,
 				7AAA1B5F22C0C282006E6117 /* Info.plist */,
 			);
@@ -158,7 +155,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7AAA1B7122C0C7CB006E6117 /* free_horizontal_on_white_by_logaster.png in Resources */,
 				7AAA1B5E22C0C282006E6117 /* LaunchScreen.storyboard in Resources */,
 				7AAA1B5B22C0C282006E6117 /* Assets.xcassets in Resources */,
 				7AAA1B5922C0C280006E6117 /* Main.storyboard in Resources */,
